@@ -18,7 +18,8 @@ This project has been deployed to GitHub Pages.
 ### Summary
 * For this application, I used HTML and CSS and Javascript to create a quiz with multiple choice questions with Javascript trivia.
 
-![Overview](/assets/Images/Work Day Scheduler.png)
+<img width="1434" alt="Work Day Scheduler" src="https://user-images.githubusercontent.com/88555003/137666162-055517cf-2c14-401c-83e0-2f42a873adc6.png">
+
 ## Authors
 
 * **Amara Mai Malekebu** - *Initial work* - [Git Hub Profile](https://github.com/AmaraMai)
