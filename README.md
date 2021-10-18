@@ -2,7 +2,9 @@
 
 This is a README.md file for a fifth challenge of my coding bootcamp.
 
-This project was made as a part of UMN's coding bootcamp. We were asked to create an application an for a timed quiz on JavaScript fundamentals that stores high scores.
+This project was made as a part of UMN's coding bootcamp. We were asked to create an application a simple work day calendar application. This calender will allow the user to save events for each hour of the day by using the starter code provided by the bootcamp.
+
+
 
 This project is being deployed using Github Pages. Please view the links below for better access to the application. 
 
